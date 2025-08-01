@@ -1,0 +1,3 @@
+{
+  "/api/scans/[scanId]/progress/route": "app/api/scans/[scanId]/progress/route.js"
+}
